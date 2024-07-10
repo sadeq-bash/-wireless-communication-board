@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=ML0_P Pin=U0-38
+Removed Pin From Net: NetName=ML0_N Pin=U0-39
+Removed Pin From Net: NetName=ML1_P Pin=U0-40
+Removed Pin From Net: NetName=ML1_N Pin=U0-41
+Removed Pin From Net: NetName=ML2_P Pin=U0-42
+Removed Pin From Net: NetName=ML2_N Pin=U0-43
+Removed Pin From Net: NetName=ML3_P Pin=U0-44
+Removed Pin From Net: NetName=ML3_N Pin=U0-45
+Change Component Footprint: Designator=U3 Old Footprint=FP-C04-074-PT-MFG New Footprint=FP-C04-074-PT-MFG
+Added Pin To Net: NetName=ML3_N Pin=U0-38
+Added Pin To Net: NetName=ML3_P Pin=U0-39
+Added Pin To Net: NetName=ML2_N Pin=U0-40
+Added Pin To Net: NetName=ML2_P Pin=U0-41
+Added Pin To Net: NetName=ML1_N Pin=U0-42
+Added Pin To Net: NetName=ML1_P Pin=U0-43
+Added Pin To Net: NetName=ML0_N Pin=U0-44
+Added Pin To Net: NetName=ML0_P Pin=U0-45
+Add Differential Pair: Number of nets in differential pair ML0 is 1 instead of 2

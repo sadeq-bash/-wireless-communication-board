@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AUX_N Pin=U0-69
+Removed Pin From Net: NetName=AUX_P Pin=U0-70
+Added Pin To Net: NetName=AUX_P Pin=U0-69
+Added Pin To Net: NetName=AUX_N Pin=U0-70
+Add Differential Pair: Number of nets in differential pair ML0 is 1 instead of 2

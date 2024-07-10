@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetU0_53 Pin=U0-53
+Added Pin To Net: NetName=NetU0_53 Pin=U7-30
+Added Net: Name=NetU0_53
+Added Pin To Net: NetName=NetU0_54 Pin=U0-54
+Added Pin To Net: NetName=NetU0_54 Pin=U7-31
+Added Net: Name=NetU0_54
+Add Differential Pair: Number of nets in differential pair ML0 is 1 instead of 2

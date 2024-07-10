@@ -1,0 +1,60 @@
+Net Status Report
+Filename     : D:\projects\PCB\P8.1\wifi-SA\wifi-SA.PcbDoc
+Date         : 6/18/2024
+Time         : 12:45:40 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    5v, Signal Layers Only, 146.225mm
+    AUX_N, Signal Layers Only, 32.8339mm
+    AUX_P, Signal Layers Only, 32.0817mm
+    BOOT0, Signal Layers Only, 24.7903mm
+    D1_N, Signal Layers Only, 30.2049mm
+    D1_P, Signal Layers Only, 32.1504mm
+    D2_N, Signal Layers Only, 22.1957mm
+    D2_P, Signal Layers Only, 21.2598mm
+    GND, Signal Layers Only, 379.9926mm
+    MISO, Signal Layers Only, 33.1129mm
+    ML0_N, Signal Layers Only, 11.0566mm
+    ML0_P, Signal Layers Only, 11.0566mm
+    ML1_N, Signal Layers Only, 11.2637mm
+    ML1_P, Signal Layers Only, 11.2447mm
+    ML2_N, Signal Layers Only, 11.4716mm
+    ML2_P, Signal Layers Only, 11.4716mm
+    ML3_N, Signal Layers Only, 11.6779mm
+    ML3_P, Signal Layers Only, 11.6779mm
+    MOSI, Signal Layers Only, 30.0092mm
+    NetC12_1, Signal Layers Only, 41.2569mm
+    NetC14_1, Signal Layers Only, 13.9937mm
+    NetC2_1, Signal Layers Only, 23.5644mm
+    NetC4_1, Signal Layers Only, 21.0174mm
+    NetC5_1, Signal Layers Only, 3.031mm
+    NetC6_1, Signal Layers Only, 2.9566mm
+    NetD1_1, Signal Layers Only, 2.4045mm
+    NetD2_1, Signal Layers Only, 2.9896mm
+    NetD3_1, Signal Layers Only, 2.8522mm
+    NetJ1_A5, Signal Layers Only, 18.3686mm
+    NetU0_1, Signal Layers Only, 36.706mm
+    NetU0_53, Signal Layers Only, 32.2262mm
+    NetU0_54, Signal Layers Only, 32.4434mm
+    NetU0_55, Signal Layers Only, 16.8927mm
+    NetU0_56, Signal Layers Only, 20.7154mm
+    NetU0_57, Signal Layers Only, 10.2372mm
+    NetU0_58, Signal Layers Only, 14.3531mm
+    NetU0_59, Signal Layers Only, 13.9669mm
+    NetU0_60, Signal Layers Only, 13.6551mm
+    NetU0_61, Signal Layers Only, 13.3918mm
+    NetU0_62, Signal Layers Only, 13.294mm
+    NetU0_63, Signal Layers Only, 13.0027mm
+    NetU0_64, Signal Layers Only, 21.1228mm
+    NetU0_65, Signal Layers Only, 21.2156mm
+    NetU0_66, Signal Layers Only, 9.7578mm
+    NetU0_67, Signal Layers Only, 9.6991mm
+    NetU0_8, Signal Layers Only, 23.8698mm
+    RX, Signal Layers Only, 19.8542mm
+    SCK, Signal Layers Only, 25.4347mm
+    SS, Signal Layers Only, 26.6028mm
+    TX, Signal Layers Only, 20.5415mm
+    VDD, Signal Layers Only, 234.5761mm
+    WKUP, Signal Layers Only, 60.4888mm
+count : 52

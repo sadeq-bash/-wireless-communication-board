@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [wifi-SA.PrjPcb]
+   Generated File[wifi-SA_Copper_Signal_Top.gbr]
+   Generated File[wifi-SA_Copper_Signal_Bot.gbr]
+   Generated File[wifi-SA_Legend_Top.gbr]
+   Generated File[wifi-SA_Legend_Bot.gbr]
+   Generated File[wifi-SA_Soldermask_Top.gbr]
+   Generated File[wifi-SA_Soldermask_Bot.gbr]
+   Generated File[wifi-SA_Paste_Top.gbr]
+   Generated File[wifi-SA_Paste_Bot.gbr]
+   Generated File[wifi-SA_Profile.gbr]
+   Generated File[wifi-SA_NPTH_Drill.gbr]
+   Generated File[wifi-SA_PTH_Drill.gbr]
+   Generated File[wifi-SA.EXTREP]
+   Generated File[wifi-SA.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:50:27 PM On 6/18/2024

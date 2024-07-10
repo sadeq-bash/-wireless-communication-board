@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetU0_57 Pin=U7-5
+Removed Pin From Net: NetName=NetU0_58 Pin=U7-6
+Removed Pin From Net: NetName=NetU0_55 Pin=U7-12
+Removed Pin From Net: NetName=NetU0_56 Pin=U7-13
+Removed Pin From Net: NetName=NetU0_65 Pin=U7-16
+Removed Pin From Net: NetName=NetU0_59 Pin=U7-18
+Removed Pin From Net: NetName=NetU0_60 Pin=U7-19
+Removed Pin From Net: NetName=NetU0_62 Pin=U7-21
+Removed Pin From Net: NetName=NetU0_63 Pin=U7-22
+Removed Pin From Net: NetName=NetU0_64 Pin=U7-23
+Removed Pin From Net: NetName=NetU0_66 Pin=U7-26
+Removed Pin From Net: NetName=NetU0_67 Pin=U7-27
+Added Pin To Net: NetName=NetU0_65 Pin=U7-5
+Added Pin To Net: NetName=NetU0_64 Pin=U7-6
+Added Pin To Net: NetName=NetU0_67 Pin=U7-12
+Added Pin To Net: NetName=NetU0_66 Pin=U7-13
+Added Pin To Net: NetName=NetU0_57 Pin=U7-16
+Added Pin To Net: NetName=NetU0_63 Pin=U7-18
+Added Pin To Net: NetName=NetU0_62 Pin=U7-19
+Added Pin To Net: NetName=NetU0_60 Pin=U7-21
+Added Pin To Net: NetName=NetU0_59 Pin=U7-22
+Added Pin To Net: NetName=NetU0_58 Pin=U7-23
+Added Pin To Net: NetName=NetU0_56 Pin=U7-26
+Added Pin To Net: NetName=NetU0_55 Pin=U7-27
+Add Differential Pair: Number of nets in differential pair ML0 is 1 instead of 2
